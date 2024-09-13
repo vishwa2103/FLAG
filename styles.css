@@ -1,0 +1,22 @@
+#box1{
+    background-color: orange;
+    height: 200px;
+}
+#box2{
+    background-color: white;
+    height: 200px;
+}
+#box3{
+    background-color: green;
+    height: 200px;
+}
+img{
+    height: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.container{
+    border: solid;
+    height: 600px;
+}
